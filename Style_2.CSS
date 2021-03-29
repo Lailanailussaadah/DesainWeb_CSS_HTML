@@ -1,0 +1,70 @@
+body {
+    background-image: url(d0c209b52691293c2f89bd0d465508a0.jpg) ;
+}
+p.dotted {border-style: dotted;border-color: white;}
+p.dashed {border-style: dashed;}
+p.solid {border-style: solid;}
+p.double {border-style: double;}
+p.groove {border-style: groove;}
+p.ridge {border-style: ridge;}
+p.inset {border-style: inset;}
+p.outset {border-style: outset;}
+p.none{border-style: none;} 
+
+h4 {
+    color: rgb(175, 171, 171);
+}
+
+h5 {
+    color: black;
+}
+
+.kotak1 { /*tanpa Padding*/
+    border: 1px solid white;
+    background-color: rgb(0, 17, 255);
+}
+
+.kotak2 { /*dengan Padding*/
+    border: 1px;
+    padding: 10px;
+    background-color: rgb(0, 17, 255);
+}
+
+.kotak3 { /*tanpa Margin*/
+    border: 1px solid white;
+    background-color: rgb(0, 17, 255)lk;
+}
+
+.kotak4 { /*dengan Margin*/
+    border: 1px solid white;
+    margin-top: 30px;
+    margin-left: 30px;
+    background-color:  rgb(0, 17, 255);
+}
+
+.gambar{
+    width: 200px;
+    float: left;
+    margin-right: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+}
