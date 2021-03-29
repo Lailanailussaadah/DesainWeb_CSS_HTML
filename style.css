@@ -1,0 +1,27 @@
+body {
+    background-image: url(wp2405147.jpg);
+}
+h1 {
+    color: rgb(154, 154, 172);
+}
+
+p {
+    color:white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.kotak{
+    padding: 20px;
+    width: fit-content;
+    color: rgb(205, 248, 255);
+    margin: 10px;
+    background: rgb(143, 214, 164);
+}
+
+#persegi{
+    padding: 40px;
+    width: fit-content;
+    color: cornsilk;
+    margin: 10px;
+    background: rgb(240, 135, 156);
+}
