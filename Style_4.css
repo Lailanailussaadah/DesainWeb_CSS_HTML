@@ -1,0 +1,84 @@
+body {
+    background-image: url(b2e4a72cbaba58b914fa00d834ad7960.jpg);
+}
+
+.list{
+    width: 70%;
+    margin: 0 auto;
+}
+
+.list:after{
+    content: '';
+    display: block;
+    clear: both;
+}
+
+header h1{
+    float: right;
+    padding: 15px 0;
+    color: whitesmoke;
+}
+
+header ul{
+    float: left;
+}
+
+header ul li{
+    display: inline-block;
+}
+section{
+    padding: 50px 0;
+}
+
+section h3{
+    text-align:center;
+    padding: 20px 0;
+    color: rgb(0, 0, 0);
+}
+
+.about p{
+    color: rgb(119, 99, 99);
+    word-spacing: 2px;
+    line-height: 25px;
+}
+
+.contact{
+    background-color: aquamarine;
+}
+
+.cv {
+    width: 400px;
+    display: block;
+    margin: auto;
+    margin-bottom: 30px;
+}
+.foto{
+    width: 300px;
+    border-radius: 100%;
+    display: block;
+    margin: auto;
+    margin-bottom: 35px;
+}
+.images{
+    background-color: aqua;
+}
+
+.TKW {
+    width: 400px;
+    display: block;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+.musrif {
+    width: 400px;
+    display: block;
+    margin: auto;
+    margin-bottom: 20px;
+}
+.kelas{
+    width: 400px;
+    display: block;
+    margin: auto;
+    margin-bottom: 20px;
+}
